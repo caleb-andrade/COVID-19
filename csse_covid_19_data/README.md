@@ -3,7 +3,6 @@
 ## Table of contents
 
  * [Daily reports (csse_covid_19_daily_reports)](#daily-reports-csse_covid_19_daily_reports)
- * [USA daily state reports (csse_covid_19_daily_reports_us)](#usa-daily-state-reports-csse_covid_19_daily_reports_us)
  * [Time series summary (csse_covid_19_time_series)](#time-series-summary-csse_covid_19_time_series)
  * [Data modification records](#data-modification-records)
  * [Retrospective reporting of (probable) cases and deaths](#retrospective-reporting-of-probable-cases-and-deaths)
